@@ -14,14 +14,11 @@ Instructor: Dr. Anasse Bari
 
 ## Application of File I/O
 
-- File Input/Output (I/O) is crucial for reading and writing data from and to files. In this homework, we delve deeper into File I/O by creating a PDF reader application using Java.
-    Step 1: Extract Text Data
+- Step 1: Extract Text Data. File Input/Output (I/O) is crucial for reading and writing data from and to files. In this homework, we delve deeper into File I/O by creating a PDF reader application using Java.
 
-- You need to extract text from PDF files. You can either write a Java program or use a Java API for this task.
-    Step 2: Format the Text
+- Step 2: Format the Text. You need to extract text from PDF files. You can either write a Java program or use a Java API for this task.
 
-- Format the extracted text data as per the specified requirements and store it in a text file.
-    Step 3: Analyze the Text
+- Step 3: Analyze the Text. Format the extracted text data as per the specified requirements and store it in a text file.
 
 - Create an application to analyze the text data from the PDF files. Users can perform tasks like searching for common words, checking word existence, identifying sections, and listing papers associated with a word.
 
